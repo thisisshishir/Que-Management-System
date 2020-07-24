@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "263393336152",
+    "firebase_url": "https://prabidhique.firebaseio.com",
+    "project_id": "prabidhique",
+    "storage_bucket": "prabidhique.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263393336152:android:a89cc7f7b1ec2cb270632d",
+        "android_client_info": {
+          "package_name": "com.prabidhi.quemanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263393336152-8pf5b6md8tlqbhb1t0n5ttn2amc171fs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC6kz0acXK6YGyLW9XR1RsFRZtnS-JXW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263393336152-8pf5b6md8tlqbhb1t0n5ttn2amc171fs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
